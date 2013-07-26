@@ -1,0 +1,14 @@
+{
+    "libs": [
+        "browser",
+        "ecma5",
+        "jquery"
+            ],
+        "loadEagerly": [
+        "underscore.js",
+        "backbone.js"
+        ],
+        "plugins": {
+        }
+}
+
